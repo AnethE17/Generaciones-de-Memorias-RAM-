@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: rgb(92, 33, 110);
+}
+.imagen{
+    position: absolute; 
+    top: 2px;      
+    left: 10px;     
+    z-index: 1000;   
+}
+body{
+    background-image: url(Fondo1.jpg);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.Han{
+    color: rgb(174, 62, 62);
+}
+h2{
+    color: rgb(155, 50, 169);
+}
+h3{
+    color: rgb(145, 48, 48);
+}
+.Jk{
+    color: rgba(124, 6, 6, 0.711);
+}
+.V{
+    color: rgb(73, 54, 3);
+}
+.lineas{
+    height: 4px;
+background-color: rgb(38, 40, 60);
+margin: 25px ;
+}

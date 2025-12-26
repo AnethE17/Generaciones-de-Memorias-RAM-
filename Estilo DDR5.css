@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+.imagen{
+    position:absolute; 
+    top: 2px;      
+    left: 10px;     
+    z-index: 1000;   
+}
+body{
+    background-image: url(Fondo5.avif);
+    background-size: cover;
+    color: rgb(234, 236, 238);
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    color: rgb(210, 156, 40);
+    font-size: 70px;
+}
+h2{
+    color: rgb(197, 222, 135);
+}
+h3{
+    color: rgb(240, 88, 139);
+}
+.JD{
+    color:rgb(170, 255, 193) ;
+}
+.Mj{
+    color: rgb(255, 213, 0);
+}
